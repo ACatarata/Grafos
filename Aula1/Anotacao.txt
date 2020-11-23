@@ -1,0 +1,15 @@
+"Ituiutaba","Monte alegre"
+"Ituiutaba","Campina Verde"
+"Ituiutaba","Prata"
+"Ituiutaba","Capinopolis"
+
+"Monte alegre","Prata"
+"Monte alegre","Uberlandia"
+"Monte alegre","Canapolis"
+
+"Uberlandia","Prata"
+
+"Prata","Campina Verde"
+"Prata","Canapolis"
+
+"Capinopolis","Canapolis"
