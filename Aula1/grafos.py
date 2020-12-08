@@ -34,7 +34,7 @@ if __name__ == '__main__':
     '''
     rotas = [("Ituiutaba", "Monte Alegre"), ("Ituiutaba", "Campina Verde"), ("Ituiutaba", "Prata"), ("Ituiutaba", "Capinopolis"), ("Monte alegre", "Prata"), ("Monte alegre", "Uberlandia"),
              ("Monte alegre", "Canapolis"), ("Uberlandia", "Prata"), ("Prata", "Campina Verde"), ("Prata", "Canapolis"), ("Capinopolis", "Canapolis")]
-    #Grafo statico 
+    # Grafo statico
     grafo_dic = {"Ituiutaba": ["Monte Alegre", "Campina Verde", "Prata", "Capinopolis"],
                  "Monte alegre": ["Prata", "Uberlandia", "Canapolis"],
                  "Uberlandia": ["Prata"],

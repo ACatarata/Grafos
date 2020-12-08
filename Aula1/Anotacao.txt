@@ -13,3 +13,20 @@
 "Prata","Canapolis"
 
 "Capinopolis","Canapolis"
+
+Ex 
+Formula 1
+Unidade de potencia 
+"Ferrari" , "ferrari"
+"Ferrari" , "Alfa Romeo Racing"
+"Ferrari" , "Hass F1 Team"
+
+"Honda" , "AlphaTauri"
+"Honda" , "Red Bull"
+
+"Renault" , "MCLaren"
+"Renault" , "Renault DP"
+
+"Mercedes-AMG" , "Mercedes-Petronas"
+"Mercedes-AMG" , "Williams"
+"Mercedes-AMG" , "Racing Point"
